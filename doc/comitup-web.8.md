@@ -21,7 +21,7 @@ See comitup-conf(5).
 
 ## COPYRIGHT
 
-Comitup is Copyright (C) 2016-2017 David Steele &lt;steele@debian.org&gt;
+Comitup is Copyright (C) 2016-2020 David Steele &lt;steele@debian.org&gt;
 
 ## SEE ALSO
 

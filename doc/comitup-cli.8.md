@@ -93,7 +93,7 @@ Commands:
 
 ## COPYRIGHT
 
-Comitup is Copyright (C) 2016-2019 David Steele &lt;steele@debian.org&gt;
+Comitup is Copyright (C) 2016-2020 David Steele &lt;steele@debian.org&gt;
 
 ## SEE ALSO
 
