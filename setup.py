@@ -98,7 +98,7 @@ setup(
         "dbus-python",
         "pygobject",
         "flask",
-        "python-networkmanager",
+        "python-networkmanager @ git+https://github.com/lagerdata/python-networkmanager.git@fa130e58738a0d4827f2433870520a905c938d8e#egg=python-networkmanager",
         "pycairo",
     ],
     setup_requires=["pytest-runner"],
